@@ -5,10 +5,14 @@ feel free to star this is you like it :)
 
 ---
 
-[javascript:fetch("https://cdn.jsdelivr.net/gh/RuralAnemone/bookmarklets/darkmode.js").then((data=>data.text())).catch((e=>alert(e))).then((text=>eval(text))).catch((e=>alert(e)));](darkmode)
+### darkmode
+```javascript:fetch("https://cdn.jsdelivr.net/gh/RuralAnemone/bookmarklets/darkmode.js").then((data=>data.text())).catch((e=>alert(e))).then((text=>eval(text))).catch((e=>alert(e)));```
 
-[javascript:fetch("https://cdn.jsdelivr.net/gh/RuralAnemone/bookmarklets/freenom.js").then((data=>data.text())).catch((e=>alert(e))).then((text=>eval(text))).catch((e=>alert(e)));](freenom)
+### freenom
+```javascript:fetch("https://cdn.jsdelivr.net/gh/RuralAnemone/bookmarklets/freenom.js").then((data=>data.text())).catch((e=>alert(e))).then((text=>eval(text))).catch((e=>alert(e)));```
 
-[javascript:fetch("https://cdn.jsdelivr.net/gh/RuralAnemone/bookmarklets/screenshot.js").then((data=>data.text())).catch((e=>alert(e))).then((text=>eval(text))).catch((e=>alert(e)));](screenshot)
+### screenshot
+```javascript:fetch("https://cdn.jsdelivr.net/gh/RuralAnemone/bookmarklets/screenshot.js").then((data=>data.text())).catch((e=>alert(e))).then((text=>eval(text))).catch((e=>alert(e)));```
 
-[javascript:fetch("https://cdn.jsdelivr.net/gh/RuralAnemone/bookmarklets/ytdl.js").then((data=>data.text())).catch((e=>alert(e))).then((text=>eval(text))).catch((e=>alert(e)));](ytdl)
+### ytdl
+```javascript:fetch("https://cdn.jsdelivr.net/gh/RuralAnemone/bookmarklets/ytdl.js").then((data=>data.text())).catch((e=>alert(e))).then((text=>eval(text))).catch((e=>alert(e)));```
