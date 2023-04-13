@@ -1,0 +1,33 @@
+# .github/workflows/build-and-deploy.yml
+
+name: Node.js CI
+
+on:
+    push:
+        branches: [main]
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+            - uses: actions/checkout@v2
+
+            - uses: actions/setup-node@v2
+              with:
+                  # update the Node version to meet your needs
+                  node-version: 16
+                  cache: npm
+
+            - name: Build
+              run: |
+                  yarn install --frozen-lockfile #npm ci
+                  yarn build
+                  yarn export
+                  touch .out/nojekyll
+
+            - name: Deploy
+              uses: JamesIves/github-pages-deploy-action@4.4.0
+              with:
+                  branch: main
+                  folder: out
