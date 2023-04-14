@@ -8,7 +8,7 @@ const nextConfig = {
 const isGithubActions = process.env.GITHUB_ACTIONS || false
 
 let assetPrefix = ''
-let basePath = '/'
+let basePath = ''
 
 if (isGithubActions) {
   // trim off `<owner>/`
