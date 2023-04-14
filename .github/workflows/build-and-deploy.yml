@@ -31,7 +31,8 @@ jobs:
 
             - name: Deploy
               # https://github.com/JamesIves/github-pages-deploy-action
-              uses: JamesIves/github-pages-deploy-action@v4.4.0
+              uses: JamesIves/github-pages-deploy-action@v4.4.1
               with:
                   branch: main
                   folder: out
+                  token: ${{ secrets.TOKEN }}
