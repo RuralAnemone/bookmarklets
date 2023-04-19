@@ -8,7 +8,7 @@ feel free to star this is you like it :)
 ## FAQ
 Q - what is a bookmarklet? how do I use one?
 
-A - <a href="about" target="_blank">!["open in new tab" button](https://raw.githubusercontent.com/RuralAnemone/bookmarklets/main/.github/storage/open-in-new.svg)</a>
+A - <a href="about" target="_blank">click here &nbsp;<img alt="'open in new tab' button" src="https://raw.githubusercontent.com/RuralAnemone/bookmarklets/main/.github/storage/open-in-new.svg" style="width:1em;height:1em;"/></a>
 
 \-\-\-
 
