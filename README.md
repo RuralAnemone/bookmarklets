@@ -20,20 +20,25 @@ A - that's not a question but you can make an issue [here](issues/)
 
 ### darkmode
 ```js
-javascript:fetch("https://cdn.jsdelivr.net/gh/RuralAnemone/bookmarklets/darkmode.js").then((data=>data.text())).catch((e=>alert(e))).then((text=>eval(text))).catch((e=>alert(e)));
+javascript:fetch("https://cdn.jsdelivr.net/gh/RuralAnemone/bookmarklets/public/darkmode.js").then((data=>data.text())).catch((e=>alert(e))).then((text=>eval(text))).catch((e=>alert(e)));
 ```
 
 ### freenom
 ```js
-javascript:fetch("https://cdn.jsdelivr.net/gh/RuralAnemone/bookmarklets/freenom.js").then((data=>data.text())).catch((e=>alert(e))).then((text=>eval(text))).catch((e=>alert(e)));
+javascript:fetch("https://cdn.jsdelivr.net/gh/RuralAnemone/bookmarklets/public/freenom.js").then((data=>data.text())).catch((e=>alert(e))).then((text=>eval(text))).catch((e=>alert(e)));
 ```
 
 ### screenshot
 ```js
-javascript:fetch("https://cdn.jsdelivr.net/gh/RuralAnemone/bookmarklets/screenshot.js").then((data=>data.text())).catch((e=>alert(e))).then((text=>eval(text))).catch((e=>alert(e)));
+javascript:fetch("https://cdn.jsdelivr.net/gh/RuralAnemone/bookmarklets/public/screenshot.js").then((data=>data.text())).catch((e=>alert(e))).then((text=>eval(text))).catch((e=>alert(e)));
 ```
 
 ### ytdl
 ```js
-javascript:fetch("https://cdn.jsdelivr.net/gh/RuralAnemone/bookmarklets/ytdl.js").then((data=>data.text())).catch((e=>alert(e))).then((text=>eval(text))).catch((e=>alert(e)));
+javascript:fetch("https://cdn.jsdelivr.net/gh/RuralAnemone/bookmarklets/public/ytdl.js").then((data=>data.text())).catch((e=>alert(e))).then((text=>eval(text))).catch((e=>alert(e)));
+```
+
+### kahoot
+```js
+javascript:fetch("https://cdn.jsdelivr.net/gh/RuralAnemone/bookmarklets/public/kahoot.js").then((data=>data.text())).catch((e=>alert(e))).then((text=>eval(text))).catch((e=>alert(e)));
 ```
