@@ -12,7 +12,7 @@ A - <a href="about" target="_blank">click here &nbsp;<img alt="'open in new tab'
 
 \-\-\-
 
-Q - my question isn't on here!
+Q - my question isn't on there!
 
 A - that's not a question but you can make an issue [here](issues/)
 
