@@ -1,12 +1,12 @@
 const t = setTimeout(timeout, 5000);
 let script = document.createElement("script");
+const options = {
+	brightness: 100,
+	contrast: 90,
+	sepia: 0,
+};
 
 if (typeof DarkReader === "undefined") {
-	const options = {
-		brightness: 100,
-		contrast: 90,
-		sepia: 0,
-	};
 	script.setAttribute(
 		"src",
 		"https://cdn.jsdelivr.net/npm/darkreader/darkreader.min.js"
