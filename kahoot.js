@@ -8,7 +8,7 @@ fetch(`https://create.kahoot.it/rest/kahoots/${id}/card/?includeKahoot=true`)
 			alert('403 error');
 			return null;
 		}
-		res.json();
+		return res.json();
 	})
 	.catch(err => {
 		console.error(err);
