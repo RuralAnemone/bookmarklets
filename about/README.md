@@ -9,7 +9,7 @@ Example:
 Enter this URL in your browser:
 ```js
 javascript:alert('Bookmarklets!')
-````
+```
 
 > **Note**
 > Make sure Javascript is enabled in your browser.
