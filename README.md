@@ -8,13 +8,13 @@ feel free to star this is you like it :)
 ## FAQ
 Q - what is a bookmarklet? how do I use one?
 
-A - <a href="about" target="_blank">click here &nbsp;<img alt="'open in new tab' button" src="https://raw.githubusercontent.com/RuralAnemone/bookmarklets/main/.github/storage/open-in-new.svg" style="width:1em;height:1em;"/></a>
+A - [click here <img alt="'open in new tab' button" src="https://raw.githubusercontent.com/RuralAnemone/bookmarklets/main/.github/storage/open-in-new.svg" style="width:1em;height:1em;"/>](https://github.com/RuralAnemone/bookmarklets/tree/main/about#about-bookmarklets)
 
 \-\-\-
 
 Q - my question isn't on there!
 
-A - that's not a question but you can make an issue [here](issues/)
+A - that's not a question but you can make an issue [here](https://github.com/RuralAnemone/bookmarklets/issues/new)
 
 ---
 
