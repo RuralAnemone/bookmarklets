@@ -14,7 +14,7 @@ A - [click here <img alt="'open in new tab' button" src="https://raw.githubuserc
 
 Q - my question isn't on there!
 
-A - that's not a question but you can make an issue [here](issues/)
+A - that's not a question but you can make an issue [here](https://github.com/RuralAnemone/bookmarklets/issues/new)
 
 ---
 
