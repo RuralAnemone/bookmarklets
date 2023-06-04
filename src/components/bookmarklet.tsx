@@ -1,5 +1,3 @@
-import Link from "next/link";
-
 export default function Bookmarklet(props: any) {
 	const code: string = `javascript:fetch("https://cdn.jsdelivr.net/gh/RuralAnemone/bookmarklets/public/${props.name}.js").then((data=>data.text())).catch((e=>alert(e))).then((text=>eval(text))).catch((e=>alert(e)));`
 	return (
